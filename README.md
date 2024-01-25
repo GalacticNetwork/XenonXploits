@@ -4,7 +4,8 @@ Features:
 - Exploits for every blocker
 - Sh1mmer
 - Goguardian bypass
-<a align="center" href="https://github.com/GalacticNetwork/Lithium-js">New and better version</a>
+<br>
+### <p><a href="https://github.com/GalacticNetwork/Lithium-js">Better Version</a></p>
 # Deployment:
 <a target="_blank" href="https://heroku.com/deploy/?template=https://github.com/GalacticNetwork/XenonXploits"><img alt="Deploy to Heroku" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/heroku.svg"></a>
 <a target="_blank" href="https://replit.com/github/GalacticNetwork/XenonXploits"><img alt="Run on Replit" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg"></a>
